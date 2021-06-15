@@ -1,2 +1,1 @@
-# More details in my blog 
-https://wrxuecslearn.blogspot.com/2020/08/dll-c-loadlibrarya-loadlibraryw-dll.html
+# [More details in my blog ](https://weirenxue.github.io/2021/06/15/dll_cpp_dll/)
